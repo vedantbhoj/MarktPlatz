@@ -5,7 +5,7 @@
  
  Website Link - https://marktplatz.vedantbhoj.com
  
- Demo Video Link - https://www.youtube.com/watch?v=dT2U4Y_pgFk&t=237s 
+ Demo Video Link - https://youtu.be/dT2U4Y_pgFk
 <html><body><div id=":tm" class="ii gt"><div id=":tl" class="a3s aXjCH "><div dir="ltr">
 <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif">These are the test cases for the project - </p>
 
