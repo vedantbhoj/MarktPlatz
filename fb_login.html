@@ -1,0 +1,79 @@
+<html lang="en">
+<head>
+<title> Test FB Login </title>
+</head>
+<body>
+<script>
+//This function is called when someone finishes with the Login Button.
+function checkLoginState() {
+FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+});
+}
+
+function statusChangeCallback(response) {
+	// The response object is returned with a status field that lets the app know the current login status of the person.
+	if (response.status === 'connected') {
+		console.log('Welcome! Fetching your information.... ');
+		FB.api('/me?fields=id,email,cover,name,first_name,last_name,age_range,link,gender,locale,picture,timezone,updated_time,verified', 
+		function(response) {
+			alert('Successfull FB login for: ' + response.name);
+			var firstname,lastname,email;
+			var result = response.name.split(" ");
+			firstname = result[0];
+			lastname = result[1];
+			email = response.email;
+			postSSOdetails(firstname,lastname,email)
+			
+	});
+	} else if (response.status === 'not_authorized') {
+		// The person is logged into Facebook, but not your app.
+		alert('Please log ' + 'into this app.');
+	} else {
+		// The person is not logged into Facebook, so we're not sure if they are logged into this app or not.
+	    alert('Please log ' + 'into Facebook.');
+	}
+}
+
+function postSSOdetails(firstname,lastname,email){
+$.ajax({
+    url : "SSOlogin.php?firstname="+firstname+"&lastname="+lastname+"&email="+email,
+    type : "post",
+    async: false,
+    success : function(data) { window.location.href = "https://nikhilnlimaye.com/Marketplace/";},
+    error: function() {alert("Some error occured!!");
+    }
+ });
+}
+
+window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '262070507788945',
+      //appId      : '357971441635738',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v3.2'
+    });
+      
+    FB.AppEvents.logPageView();   
+      
+  };
+
+(function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+
+var clicked=false;//Global Variable
+function ClickLogin()
+{
+    clicked=true;
+}
+</script>
+<fb:login-button scope="public_profile,email" onlogin="checkLoginState();"><br></fb:login-button><br><div id="status"><br></div>
+</body>
+</html>

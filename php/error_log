@@ -1,0 +1,6 @@
+[26-Nov-2018 09:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/php/get_cart.php:4
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/php/get_cart.php(42): get_cart()
+#1 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/php/get_cart.php on line 4
+[26-Nov-2018 20:08:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/php/get_cart.php on line 15

@@ -1,0 +1,546 @@
+[23-Nov-2018 22:39:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/login.php:1) in /home4/nikhilnl/public_html/Marketplace/login.php on line 251
+[23-Nov-2018 22:53:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/login.php:1) in /home4/nikhilnl/public_html/Marketplace/login.php on line 226
+[23-Nov-2018 22:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/login.php:1) in /home4/nikhilnl/public_html/Marketplace/login.php on line 226
+[23-Nov-2018 22:57:45 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home4/nikhilnl/public_html/Marketplace/login.php:221
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/login.php on line 221
+[23-Nov-2018 22:57:51 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home4/nikhilnl/public_html/Marketplace/login.php:221
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/login.php on line 221
+[23-Nov-2018 22:57:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home4/nikhilnl/public_html/Marketplace/login.php:221
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/login.php on line 221
+[23-Nov-2018 22:59:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/login.php:1) in /home4/nikhilnl/public_html/Marketplace/login.php on line 225
+[23-Nov-2018 23:01:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/login.php:1) in /home4/nikhilnl/public_html/Marketplace/login.php on line 224
+[23-Nov-2018 23:03:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/login.php:1) in /home4/nikhilnl/public_html/Marketplace/login.php on line 224
+[23-Nov-2018 23:36:16 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/nikhilnl/public_html/Marketplace/login.php on line 240
+[23-Nov-2018 23:52:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/login.php:1) in /home4/nikhilnl/public_html/Marketplace/login.php on line 246
+[24-Nov-2018 20:39:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/index.php:1) in /home4/nikhilnl/public_html/Marketplace/index.php on line 116
+[24-Nov-2018 20:39:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/index.php:1) in /home4/nikhilnl/public_html/Marketplace/index.php on line 116
+[24-Nov-2018 20:39:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/index.php:1) in /home4/nikhilnl/public_html/Marketplace/index.php on line 116
+[24-Nov-2018 20:39:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/nikhilnl/public_html/Marketplace/index.php:1) in /home4/nikhilnl/public_html/Marketplace/index.php on line 116
+[26-Nov-2018 00:48:13 UTC] PHP Warning:  include(./track_page_visits.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 2
+[26-Nov-2018 00:48:13 UTC] PHP Warning:  include(./track_page_visits.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 2
+[26-Nov-2018 00:48:13 UTC] PHP Warning:  include(): Failed opening './track_page_visits.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 2
+[26-Nov-2018 00:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function display_visited_pages() in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 3
+[26-Nov-2018 00:48:52 UTC] PHP Warning:  include(./track_page_visits.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 2
+[26-Nov-2018 00:48:52 UTC] PHP Warning:  include(./track_page_visits.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 2
+[26-Nov-2018 00:48:52 UTC] PHP Warning:  include(): Failed opening './track_page_visits.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 2
+[26-Nov-2018 00:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function display_visited_pages() in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 3
+[26-Nov-2018 00:49:12 UTC] PHP Warning:  include(./track_page_visits.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 2
+[26-Nov-2018 00:49:12 UTC] PHP Warning:  include(./track_page_visits.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 2
+[26-Nov-2018 00:49:12 UTC] PHP Warning:  include(): Failed opening './track_page_visits.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 2
+[26-Nov-2018 00:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function display_visited_pages() in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/showTrackedProducts.php on line 3
+[01-Dec-2018 20:02:12 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 20:02:12 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 20:02:12 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 20:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:6
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/get_cart.php(44): get_cart()
+#1 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 6
+[01-Dec-2018 22:06:26 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:06:26 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:06:26 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:06:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:6
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/get_cart.php(44): get_cart()
+#1 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 6
+[01-Dec-2018 22:06:41 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 44
+[01-Dec-2018 22:06:48 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 44
+[01-Dec-2018 22:39:37 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 3
+[01-Dec-2018 22:39:37 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 3
+[01-Dec-2018 22:39:37 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 3
+[01-Dec-2018 22:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php:112
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php(148): get_cart(1)
+#1 /home4/nikhilnl/public_html/Marketplace/product-detail.php(44): include('/home4/nikhilnl...')
+#2 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 112
+[01-Dec-2018 22:40:38 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 3
+[01-Dec-2018 22:40:38 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 3
+[01-Dec-2018 22:40:38 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 3
+[01-Dec-2018 22:40:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php:112
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php(148): get_cart(1)
+#1 /home4/nikhilnl/public_html/Marketplace/product-detail.php(3): include('/home4/nikhilnl...')
+#2 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 112
+[01-Dec-2018 22:42:49 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 3
+[01-Dec-2018 22:42:49 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 3
+[01-Dec-2018 22:42:49 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 3
+[01-Dec-2018 22:42:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php:112
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php(148): get_cart(1)
+#1 /home4/nikhilnl/public_html/Marketplace/product-detail.php(44): include('/home4/nikhilnl...')
+#2 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/php/cart_operations.php on line 112
+[01-Dec-2018 22:49:45 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:49:45 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:49:45 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:49:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:6
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/get_cart.php(44): get_cart()
+#1 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 6
+[01-Dec-2018 22:50:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 57
+[01-Dec-2018 22:50:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 66
+[01-Dec-2018 22:50:08 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:50:08 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:50:08 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:50:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:6
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/get_cart.php(44): get_cart()
+#1 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 6
+[01-Dec-2018 22:53:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 57
+[01-Dec-2018 22:53:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 66
+[01-Dec-2018 22:57:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 57
+[01-Dec-2018 22:57:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 66
+[01-Dec-2018 22:57:24 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:57:24 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:57:24 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 22:57:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:6
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/get_cart.php(44): get_cart()
+#1 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 6
+[01-Dec-2018 23:00:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 57
+[01-Dec-2018 23:00:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 66
+[01-Dec-2018 23:05:00 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:05:00 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:05:00 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:6
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/get_cart.php(44): get_cart()
+#1 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 6
+[01-Dec-2018 23:24:23 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:24:23 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:24:23 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:24:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:6
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/get_cart.php(44): get_cart()
+#1 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 6
+[01-Dec-2018 23:27:10 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:27:10 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:27:10 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:27:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:6
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/get_cart.php(44): get_cart()
+#1 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 6
+[01-Dec-2018 23:29:50 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:29:50 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:29:50 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:09 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:09 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:09 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:36 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:36 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:36 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:40 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:40 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:40 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:43 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:43 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:31:43 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:32:11 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:32:11 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:32:11 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:32:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:6
+Stack trace:
+#0 /home4/nikhilnl/public_html/Marketplace/get_cart.php(44): get_cart()
+#1 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 6
+[01-Dec-2018 23:33:07 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:33:07 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:33:07 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:33:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 5
+[01-Dec-2018 23:34:15 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:34:15 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:34:15 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:34:42 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:34:42 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:34:42 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:35:20 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:35:20 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:35:20 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:35:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 5
+[01-Dec-2018 23:36:02 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:36:02 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:36:02 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 2
+[01-Dec-2018 23:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/get_cart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 5
+[02-Dec-2018 04:12:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:12:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:14:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:14:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:15:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:15:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:16:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:16:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:16:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:16:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:22:33 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/orderConfirmed.php on line 2
+[02-Dec-2018 04:22:33 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/orderConfirmed.php on line 2
+[02-Dec-2018 04:22:33 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/orderConfirmed.php on line 2
+[02-Dec-2018 04:22:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/orderConfirmed.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/orderConfirmed.php on line 6
+[02-Dec-2018 04:25:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:25:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:25:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:25:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:25:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:25:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:26:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:26:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:26:45 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/orderConfirmed.php on line 2
+[02-Dec-2018 04:26:45 UTC] PHP Warning:  include(./globals.php): failed to open stream: No such file or directory in /home4/nikhilnl/public_html/Marketplace/orderConfirmed.php on line 2
+[02-Dec-2018 04:26:45 UTC] PHP Warning:  include(): Failed opening './globals.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/nikhilnl/public_html/Marketplace/orderConfirmed.php on line 2
+[02-Dec-2018 04:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/orderConfirmed.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/orderConfirmed.php on line 6
+[02-Dec-2018 04:27:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:27:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:28:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:28:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:28:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:28:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:41:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:41:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:41:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:41:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 04:41:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 04:41:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 05:01:06 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:01:06 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:01:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:01:06 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:01:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:01:06 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:01:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1010
+[02-Dec-2018 05:01:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:01:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:01:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:01:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:01:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:01:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:01:11 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1010
+[02-Dec-2018 05:01:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:01:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:01:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:01:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:01:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:01:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:01:19 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1010
+[02-Dec-2018 05:01:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:01:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:01:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:01:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:01:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:01:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:01:24 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1010
+[02-Dec-2018 05:01:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:01:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:01:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:01:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:01:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:01:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:01:34 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1010
+[02-Dec-2018 05:01:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:01:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:01:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:01:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:01:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:01:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:01:42 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1010
+[02-Dec-2018 05:02:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:02:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:02:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:02:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:02:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:02:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:02:47 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1005
+[02-Dec-2018 05:02:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:02:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:02:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:02:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:02:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:02:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:02:52 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1005
+[02-Dec-2018 05:03:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1005
+[02-Dec-2018 05:06:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1005
+[02-Dec-2018 05:06:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:06:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:06:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:06:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:06:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:06:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:06:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1005
+[02-Dec-2018 05:09:03 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:09:03 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:09:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:09:03 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:09:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:09:03 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:09:03 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1005
+[02-Dec-2018 05:09:10 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:09:10 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:09:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:09:10 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:09:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:09:10 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:09:10 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1005
+[02-Dec-2018 05:10:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:10:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:10:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:10:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:10:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:10:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:10:26 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1005
+[02-Dec-2018 05:10:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:10:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:10:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:10:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:10:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:10:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:10:34 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1005
+[02-Dec-2018 05:12:18 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:12:18 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:12:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:12:18 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:12:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:12:18 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:12:18 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1007
+[02-Dec-2018 05:12:25 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:12:25 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:12:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:12:25 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:12:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:12:25 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:12:25 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1007
+[02-Dec-2018 05:12:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:12:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:12:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:12:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:12:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:12:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:12:31 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1007
+[02-Dec-2018 05:13:55 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1007
+[02-Dec-2018 05:14:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:14:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:14:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:14:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:14:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:14:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:14:00 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1007
+[02-Dec-2018 05:14:09 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1007
+[02-Dec-2018 05:14:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:14:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:14:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:14:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:14:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:14:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:14:17 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1007
+[02-Dec-2018 05:15:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:15:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:15:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:15:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:15:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:15:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:15:00 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1007
+[02-Dec-2018 05:17:07 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:17:07 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:17:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:17:07 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:17:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:17:07 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:17:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:17:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:17:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:17:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:17:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:17:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:17:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:17:26 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:17:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:17:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:17:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:17:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:17:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:17:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:17:35 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:17:44 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:17:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:17:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:17:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:17:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:17:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:17:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:17:52 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:18:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:18:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:18:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:18:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:18:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:18:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:18:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:19:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:19:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:19:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:19:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:19:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:19:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:19:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:22:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:22:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:22:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:22:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:22:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:22:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:22:34 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:22:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 05:22:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 05:22:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:22:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:22:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:22:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:22:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:22:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:22:47 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:22:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 05:22:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 05:23:48 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:23:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 975
+[02-Dec-2018 05:23:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 979
+[02-Dec-2018 05:23:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 981
+[02-Dec-2018 05:23:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 988
+[02-Dec-2018 05:23:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 990
+[02-Dec-2018 05:23:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1000
+[02-Dec-2018 05:23:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nikhilnl/public_html/Marketplace/product-detail.php on line 1008
+[02-Dec-2018 05:24:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 05:24:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 05:24:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 05:24:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 05:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 05:24:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 22:57:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 22:57:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[02-Dec-2018 23:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[02-Dec-2018 23:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[03-Dec-2018 03:29:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[03-Dec-2018 03:29:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[03-Dec-2018 03:33:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[03-Dec-2018 03:33:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[03-Dec-2018 03:34:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[03-Dec-2018 03:34:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[03-Dec-2018 03:37:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[03-Dec-2018 03:37:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[03-Dec-2018 04:15:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/remove_cart.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/remove_cart.php on line 1
+[03-Dec-2018 04:16:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function open_db_conn() in /home4/nikhilnl/public_html/Marketplace/remove_cart.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/nikhilnl/public_html/Marketplace/remove_cart.php on line 1
+[03-Dec-2018 04:39:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[03-Dec-2018 04:39:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[03-Dec-2018 05:05:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[03-Dec-2018 05:05:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[03-Dec-2018 07:32:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[03-Dec-2018 07:32:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[03-Dec-2018 22:14:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[03-Dec-2018 22:14:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[03-Dec-2018 22:15:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[03-Dec-2018 22:15:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[03-Dec-2018 22:56:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[03-Dec-2018 22:56:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[04-Dec-2018 00:17:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[04-Dec-2018 00:17:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[04-Dec-2018 00:17:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[04-Dec-2018 00:17:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[04-Dec-2018 01:29:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[04-Dec-2018 01:29:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[04-Dec-2018 02:29:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/nikhilnl/public_html/Marketplace/FBlogin.php on line 6
+[04-Dec-2018 02:29:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/FBlogin.php on line 8
+[04-Dec-2018 02:29:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/nikhilnl/public_html/Marketplace/FBlogin.php on line 19
+[04-Dec-2018 02:32:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/nikhilnl/public_html/Marketplace/FBlogin.php on line 6
+[04-Dec-2018 02:32:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/nikhilnl/public_html/Marketplace/FBlogin.php on line 8
+[04-Dec-2018 02:32:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/nikhilnl/public_html/Marketplace/FBlogin.php on line 19
+[04-Dec-2018 23:28:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[04-Dec-2018 23:28:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[04-Dec-2018 23:50:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[04-Dec-2018 23:50:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[04-Dec-2018 23:50:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[04-Dec-2018 23:50:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[05-Dec-2018 06:30:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[05-Dec-2018 06:30:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[05-Dec-2018 10:32:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[05-Dec-2018 10:32:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[05-Dec-2018 10:35:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[05-Dec-2018 10:35:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[05-Dec-2018 20:21:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[05-Dec-2018 20:21:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[05-Dec-2018 20:40:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[05-Dec-2018 20:40:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[05-Dec-2018 20:40:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[05-Dec-2018 20:40:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[05-Dec-2018 21:13:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/nikhilnl/public_html/Marketplace/index.php on line 1150
+[05-Dec-2018 21:13:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/nikhilnl/public_html/Marketplace/index.php on line 1150
+[05-Dec-2018 21:24:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[05-Dec-2018 21:24:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[05-Dec-2018 23:08:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[05-Dec-2018 23:08:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[05-Dec-2018 23:31:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[05-Dec-2018 23:31:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[06-Dec-2018 02:28:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[06-Dec-2018 02:28:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[06-Dec-2018 02:35:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[06-Dec-2018 02:35:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[06-Dec-2018 04:29:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[06-Dec-2018 04:29:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[06-Dec-2018 04:34:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[06-Dec-2018 04:34:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[06-Dec-2018 04:52:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[06-Dec-2018 04:52:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[06-Dec-2018 10:12:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[06-Dec-2018 10:12:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[08-Dec-2018 07:06:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[08-Dec-2018 07:06:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[08-Dec-2018 07:16:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[08-Dec-2018 07:16:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[08-Dec-2018 07:44:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[08-Dec-2018 07:44:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[09-Dec-2018 01:02:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[09-Dec-2018 01:02:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[09-Dec-2018 01:18:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[09-Dec-2018 01:18:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
+[15-Dec-2018 22:12:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 25
+[15-Dec-2018 22:12:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nikhilnl/public_html/Marketplace/get_cart.php on line 34
